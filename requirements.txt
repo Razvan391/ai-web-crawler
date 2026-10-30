@@ -3,3 +3,5 @@ google-genai
 python-dotenv
 pydantic
 streamlit
+chromadb
+langchain-text-splitters
